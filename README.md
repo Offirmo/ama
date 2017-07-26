@@ -4,7 +4,6 @@
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
--
 
 ### Guidelines
 
